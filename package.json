@@ -18,6 +18,11 @@
         "mail": "support@alfajango.com",
         "web": "https://github.com/jangosteve/jquery-easytabs/issues"
     },
+    "repository"  :
+        {
+          "type": "git",
+          "url": "https://github.com/alexogar/fleet-pm2.git"
+        },    
     "description" : "pm2 fleet plugin",
     "version" : "0.0.1",   
     "bin" : {        
