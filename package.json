@@ -24,7 +24,7 @@
           "url": "https://github.com/alexogar/fleet-pm2.git"
         },    
     "description" : "pm2 fleet plugin",
-    "version" : "0.0.1",   
+    "version" : "0.0.2",   
     "bin" : {        
         "fleet-pm2" : "lib/pm2.js"
     },
